@@ -175,9 +175,9 @@ Modify the block below if there are any special requirements.
     Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
   {% else %}
     Participants must have access to a computer with a
-    Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
+    Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. If you are using an A*STAR issued device, please get in touch with your respective IT department, or drop an email to the amazing systems team at BII (systems@bii.a-star.edu.sg) who will help put you in touch with the right people. 
   {% endif %}
-  They should have a few specific software packages installed (listed <a href="#setup">below</a>).
+  Ideally before the start of the workshop you should have a few specific software packages installed (listed <a href="#setup">below</a>). Hacky hour offering support with installation on personal devices will be announced to registered participants at a later date.
 </p>
 
 {% comment %}
@@ -190,18 +190,8 @@ special instructions.
   <strong>Accessibility:</strong>
 {% if online == "false" %}
   We are committed to making this workshop
-  accessible to everybody.  For workshops at a physical location, the workshop organizers have checked that:
-</p>
-<ul>
-  <li>The room is wheelchair / scooter accessible.</li>
-  <li>Accessible restrooms are available.</li>
-</ul>
-<p>
-  Materials will be provided in advance of the workshop and
-  large-print handouts are available if needed by notifying the
-  organizers in advance.  If we can help making learning easier for
-  you (e.g. sign-language interpreters, lactation facilities) please
-  get in touch (using contact details below) and we will
+  accessible to everybody.  If we can help make learning easier for
+  you please get in touch (using contact details below) and we will
   attempt to provide them.
 </p>
 {% else %}
