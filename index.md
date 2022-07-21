@@ -177,7 +177,7 @@ Modify the block below if there are any special requirements.
     Participants must have access to a computer with a
     Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. 
   {% endif %}
-  If you are using an A*STAR issued device, please get in touch with your respective IT department, or drop an email to the amazing systems team at BII (systems@bii.a-star.edu.sg) who will help put you in touch with the right people. Ideally before the start of the workshop you should have a few specific software packages installed (listed <a href="#setup">below</a>). Hacky hour offering support with installation on personal devices will be announced to registered participants at a later date.
+If you are using an A*STAR issued device, please get in touch with your respective IT department, or drop an email to the amazing systems team at BII <a href='mailto:{{email}}'>{{systems@bii.a-star.edu.sg}}</a> who will help put you in touch with the right people. Ideally before the start of the workshop you should have a few specific software packages installed (listed <a href="#setup">below</a>). Hacky hour offering support with installation on personal devices will be announced to registered participants at a later date.
 </p>
 
 {% comment %}
